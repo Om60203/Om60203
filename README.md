@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Om 👋
 
-<!--
-**Om60203/Om60203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💻 Working with React, Next.js, Node.js  
+🌱 Currently learning System Design & Backend  
+📫 Contact: omawasthi379@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- MongoDB
+- Tailwind CSS
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Chat App
+AI powered chat application using OpenAI API.
+
+### 💰 Expense Tracker
+Track expenses with charts and analytics.
+
+### 🔗 URL Shortener
+Create short links with analytics dashboard.
+
+---
+
+## 📊 GitHub Stats
+
+Coming Soon...
+
+---
+
+⭐️ From Om60203
